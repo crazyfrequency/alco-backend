@@ -3,8 +3,6 @@ package com.alco.algorithmic.responseRequests;
 import com.alco.algorithmic.entity.Account;
 import lombok.Data;
 
-import java.util.Date;
-
 @Data
 public class AccountResponse {
 

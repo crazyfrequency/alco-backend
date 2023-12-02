@@ -3,7 +3,6 @@ package com.alco.algorithmic.service;
 import com.alco.algorithmic.dao.AccountRepository;
 import com.alco.algorithmic.dao.TokenRepository;
 import com.alco.algorithmic.entity.Account;
-import com.alco.algorithmic.entity.File;
 import com.alco.algorithmic.entity.Token;
 import com.alco.algorithmic.enums.FriendStatus;
 import com.alco.algorithmic.enums.Role;

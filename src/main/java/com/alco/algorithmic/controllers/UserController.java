@@ -1,10 +1,7 @@
 package com.alco.algorithmic.controllers;
 import com.alco.algorithmic.entity.Account;
-import com.alco.algorithmic.entity.Message;
-import com.alco.algorithmic.dao.MessageRepository;
 import com.alco.algorithmic.responseRequests.AccountNameRequest;
 import com.alco.algorithmic.responseRequests.AccountStatusRequest;
-import com.alco.algorithmic.responseRequests.MessageRequest;
 import com.alco.algorithmic.service.AccountService;
 import jakarta.validation.Valid;
 import lombok.AllArgsConstructor;

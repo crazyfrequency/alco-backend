@@ -1,12 +1,10 @@
 package com.alco.algorithmic.service;
 
 import com.alco.algorithmic.dao.CommentRepository;
-import com.alco.algorithmic.dao.PostRepository;
 import com.alco.algorithmic.entity.Account;
 import com.alco.algorithmic.entity.Comment;
 import com.alco.algorithmic.entity.Post;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

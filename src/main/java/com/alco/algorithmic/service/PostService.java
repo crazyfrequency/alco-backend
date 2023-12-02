@@ -1,6 +1,5 @@
 package com.alco.algorithmic.service;
 
-import com.alco.algorithmic.dao.FileRepository;
 import com.alco.algorithmic.dao.FriendsRepository;
 import com.alco.algorithmic.dao.PostRepository;
 import com.alco.algorithmic.entity.Account;
@@ -8,7 +7,6 @@ import com.alco.algorithmic.entity.File;
 import com.alco.algorithmic.entity.Post;
 import com.alco.algorithmic.responseRequests.PostRequest;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

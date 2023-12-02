@@ -1,7 +1,6 @@
 package com.alco.algorithmic.entity;
 
 import com.alco.algorithmic.enums.Role;
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

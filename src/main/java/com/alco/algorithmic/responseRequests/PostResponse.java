@@ -1,6 +1,5 @@
 package com.alco.algorithmic.responseRequests;
 
-import com.alco.algorithmic.entity.File;
 import com.alco.algorithmic.entity.Post;
 import com.alco.algorithmic.enums.ReactType;
 import lombok.Data;
